@@ -8,7 +8,7 @@ double Perimetr(double a, double b, double c, double d) {
 
 // Функция для вычисления площади трапеции
 double Area(double a, double b, double h) {
-    return 0.5*(a + b)*h;
+    return 0.5 * (a + b) * h;
 }
 
 // Функция для вычисления длины средней линии трапеции
@@ -17,6 +17,7 @@ double MidLine(double a, double b) {
 }
 
 int main() {
+    setlocale(LC_ALL, "RUS");
     double a, b, c, d, h;
 
     cout << "Введите длины оснований трапеции: ";
@@ -34,4 +35,3 @@ int main() {
 
     return 0;
 }
-  
