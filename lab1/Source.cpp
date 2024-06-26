@@ -8,7 +8,7 @@ double Perimetr(double a, double b, double c, double d) {
 
 // Функция для вычисления площади трапеции
 double Area(double a, double b, double h) {
-    return 0.5 *(a + b);  h;
+    return 0.5*(a + b)*h;
 }
 
 // Функция для вычисления длины средней линии трапеции
