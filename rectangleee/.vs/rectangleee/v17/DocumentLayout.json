@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u042D\u043C\u0438\u0440\\Desktop\\rectangleee\\",
+  "WorkspaceRootPath": "C:\\Users\\\u042D\u043C\u0438\u0440\\Desktop\\1stlab\\1st-lab\\rectangleee\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0D71440-CDED-4785-BECF-17FD6F53AB60}|rectangleee\\rectangleee.vcxproj|C:\\Users\\\u042D\u043C\u0438\u0440\\Desktop\\rectangleee\\rectangleee\\rectangleee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C0D71440-CDED-4785-BECF-17FD6F53AB60}|rectangleee\\rectangleee.vcxproj|solutionrelative:rectangleee\\rectangleee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u042D\u043C\u0438\u0440\\Desktop\\1stlab\\1st-lab\\rectangleee\\rectangleee\\rectangleee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:rectangleee\\rectangleee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "rectangleee.cpp",
-              "DocumentMoniker": "C:\\Users\\\u042D\u043C\u0438\u0440\\Desktop\\rectangleee\\rectangleee\\rectangleee.cpp",
+              "DocumentMoniker": "C:\\Users\\\u042D\u043C\u0438\u0440\\Desktop\\1stlab\\1st-lab\\rectangleee\\rectangleee\\rectangleee.cpp",
               "RelativeDocumentMoniker": "rectangleee\\rectangleee.cpp",
-              "ToolTip": "C:\\Users\\\u042D\u043C\u0438\u0440\\Desktop\\rectangleee\\rectangleee\\rectangleee.cpp",
+              "ToolTip": "C:\\Users\\\u042D\u043C\u0438\u0440\\Desktop\\1stlab\\1st-lab\\rectangleee\\rectangleee\\rectangleee.cpp",
               "RelativeToolTip": "rectangleee\\rectangleee.cpp",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwCYAAAABAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwCYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-25T13:02:09.483Z",
               "EditorCaption": ""
